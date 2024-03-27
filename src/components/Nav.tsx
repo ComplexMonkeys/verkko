@@ -3,7 +3,7 @@ export const Nav = () => {
     <nav className="bg-neutral-900 p-2">
       <div className="flex items-center justify-between mx-auto max-w-screen-xl">
         <div>
-          <p className="text-2xl font-bold text-white">verkko.dev</p>
+          <p className="text-2xl mx-2 font-bold text-white">verkko.dev</p>
         </div>
         <ul className="flex items-center space-x-4 mr-4 text-amber-500">
           <li>
