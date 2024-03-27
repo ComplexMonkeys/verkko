@@ -5,7 +5,7 @@ export const Projects = () => {
       <div className="flex flex-wrap justify-center lg:space-x-8 lg:mx-auto max-w-screen-xl">
         <ProjectBox
           title="SlayerCalc"
-          imageUrl="/slayercalc.jpeg"
+          imageUrl="/slayercalc.png"
           sourceCodeUrl="https://github.com/ComplexMonkeys/slayercalc"
           deploymentUrl="https://slayer.verkko.dev/"
           description="A calculator app for slayer tasks in Old School RuneScape."
