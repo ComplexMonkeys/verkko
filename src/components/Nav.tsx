@@ -7,13 +7,22 @@ export const Nav = () => {
         </div>
         <ul className="flex items-center space-x-4 mr-4 text-amber-500">
           <li>
-            <a className="hover:brightness-75" href="https://github.com/ComplexMonkeys">GitHub</a>
+            <a
+              className="hover:brightness-75"
+              href="https://github.com/ComplexMonkeys"
+            >
+              GitHub
+            </a>
           </li>
           <li>
-            <a className="hover:brightness-75" href="https://media.verkko.dev">Media</a>
+            <a className="hover:brightness-75" href="https://media.verkko.dev">
+              Media
+            </a>
           </li>
           <li>
-            <a className="hover:brightness-75" href="https://status.verkko.dev">Status</a>
+            <a className="hover:brightness-75" href="https://status.verkko.dev">
+              Status
+            </a>
           </li>
         </ul>
       </div>
